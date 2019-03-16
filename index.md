@@ -164,7 +164,8 @@ special instructions.
 REGISTRATION LINK
 {% endcomment %}
 <p id="registration">
-<strong>Registration:</strong>  To register for a place at the workshop, please follow this link to relevant page on the VIB Training website: https://training.vib.be/data-carpentry-genomics
+<strong>Registration:</strong>  To register for a place at the workshop, please go to 
+  <a href="https://training.vib.be/data-carpentry-genomics">course page on the VIB Training website</a>.
 </p>
 
 {% comment %}
